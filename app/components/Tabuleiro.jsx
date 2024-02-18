@@ -1,5 +1,5 @@
 import Quadrado from "./Quadrado";
-import styles from "./tabuleiro.module.css";
+import styles from "@/app/assets/css/tabuleiro.module.css";
 
 export default function Tabuleiro() {
   return (
